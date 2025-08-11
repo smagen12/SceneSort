@@ -3,7 +3,5 @@ __pycache__/
 *.pyc
 venv/
 .venv/
-*.h5
-*.pkl
 .streamlit/
 data/
